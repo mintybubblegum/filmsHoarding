@@ -2,25 +2,51 @@ body {
     background-color: lightsalmon;
 }
 
+.headerTitle {
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bold;
+    text-decoration: underline;
+    color: brown;
+    font-size: 5em;
+    font-size: 120px;
+    text-align: center;
+    margin: 90px;
+}
+
 .cardsMovies {
     display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
+    flex-flow: row wrap; /* combination of flex-direction + flex-wrap */
     justify-content: space-around;
+    justify-content: center;
+    margin: 20px;
 }
 
 .card {
-    margin-bottom: 15px;
+    margin: 30px;
+    width: 70rem;
+    height: 148rem;
+    border-radius: 50px;
 }
 
-h1 {
-    color:beige;
+.cardBody {
+    padding: 45px;
+    overflow-y: auto;
 }
 
 .coverImg {
-    height: 100%;
+    width:  70rem;
+    height: 100rem;
+    object-fit: cover; /* to make the image fit a specific container size */
 }
 
-.cardBox {
+.cardTitle {
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bold;
+    text-decoration: underline;
     color: brown;
+    font-size: 5em;
+}
+
+.filmInfo {
+    font-size: 50px;
 }
