@@ -1,4 +1,4 @@
-# filmsHoarding
+# Films Hoarding
 Design and develop a films hoarding using Javascript and a 'fake' API REST.
 
 ## Participants
