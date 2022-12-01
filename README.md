@@ -3,11 +3,7 @@ Design and develop a films hoarding using Javascript and a 'fake' API REST.
 
 ## Participants
 
-- [@CarmenCruces](https://github.com/CarmenCruces) SCRUM Master
-- [@mintybubblegum](https://github.com/mintybubblegum) Product Owner
-- [@anaruedaguiu](https://github.com/anaruedaguiu) Developer
-- [@veflo13](https://github.com/veflo13) Developer
-- [@elenarjonap](https://github.com/elenarjonap) Developer
+- [@mintybubblegum](https://github.com/mintybubblegum) Developer
 
 ## Screenshots 📸
 
