@@ -1,0 +1,68 @@
+{
+    "peliculas": [
+        {
+            "id" : 1,
+            "caratula" : "https://pics.filmaffinity.com/tonari_no_totoro-974352061-large.jpg",
+            "titulo" : "My Neighbour Totoro",
+            "descripcion" : "In the 1950s, a Japanese family moves to the countryside. The two daughters, Satsuki and Mei, befriend Totoro, a forest spirit. The father is a university professor who stimulates the imagination of his daughters by telling them fables and magical stories about goblins, ghosts and protective spirits of homes, while the mother is sick in the hospital.",
+            "genero" : "Animation. Fantasy. Children",
+            "director" : "Hayao Miyazaki"
+        },
+        {
+            "id" : 2,
+            "caratula" : "https://pics.filmaffinity.com/sen_to_chihiro_no_kamikakushi-348587850-large.jpg",
+            "titulo" : "Spirited Away",
+            "descripcion" : "Chihiro is a ten-year-old girl who travels by car with her parents. After passing through a tunnel, they arrive in a fantastic world, in which there is no place for human beings, only for first and second class gods. When she discovers that her parents have been turned into pigs, Chihiro feels very lonely and scared.",
+            "genero" : "Animation. Fantasy. Adventures" ,
+            "director" : "Hayao Miyazaki"
+        },
+        {
+            "id" : 3,
+            "caratula" : "https://pics.filmaffinity.com/mononoke_hime-598406013-large.jpg",
+            "titulo" : "Princess Mononoke",
+            "descripcion" : "In order to heal the wound caused by a maddened boar, the young Ashitaka goes in search of the Deer god, because only he can free him from the spell. Throughout his journey he discovers how the animals of the forest fight against men who are willing to destroy Nature.",
+            "genero" : "Animation. Fantasy. Adventures",
+            "director" : "Hayao Miyazaki"
+        },
+        {            
+            "id" : 4,
+            "caratula" : "https://pics.filmaffinity.com/majo_no_takkyubin-859043662-large.jpg",
+            "titulo" : "Kiki's Delivery Service",
+            "descripcion" : "Kiki is a 13-year-old witch, in training, who has fun flying on her broom with Jiji, a wise black cat. According to tradition, all witches of that age must leave their home for a year to learn to fend for themselves. Thus, she will discover what responsibility, independence and friendship mean. Along the way, Kiki (Nicky) and Jiji will make a new friend, Tombo, with whom they will live extraordinary adventures.",
+            "genero" : "Animation. Fantasy. Adventures. Children",
+            "director" : "Hayao Miyazaki"
+        },
+        {            
+            "id" : 5,
+            "caratula" : "https://pics.filmaffinity.com/mei_to_konekobasu-535018128-large.jpg",
+            "titulo" : "Mei and the Kittenbus",
+            "descripcion" : "Created by Hayao Miyazaki, this short film tells the magical journey of Mei Kusakabe and her friend the Kittenbus, a descendant of the Catbus (from My Neighbor Totoro), flying through the forest where a great meeting of spirits is held, which they arrive in catbuses of all sizes. It is there that Mei is reunited with an old friend, Totoro.",
+            "genero" : "Animation. Fantasy. Children",
+            "director" : "Hayao Miyazaki"
+        },
+        {            
+            "id" : 6,
+            "caratula" : "https://pics.filmaffinity.com/hauru_no_ugoku_shiro-376386887-large.jpg",
+            "titulo" : "Howl's Moving Castle",
+            "descripcion" : "It tells the story of Sophie, a young woman weighed down by a horrible curse that gives her the appearance of an old woman. Sophie decides to ask the wizard Howl, who lives in a howl's moving castle, for help, but it may be Howl who needs Sophie's help.",
+            "genero" : "Animation. Fantasy. Adventures. Romance",
+            "director" : "Hayao Miyazaki"
+        }, 
+        {            
+            "id" : 7,
+            "caratula" : "https://pics.filmaffinity.com/gake_no_ue_no_ponyo-309484645-large.jpg",
+            "titulo" : "Ponyo",
+            "descripcion" : "The story centers on Sosuke, a 5-year-old boy, and his relationship with a fish princess who yearns to become a human. Free adaptation of The Little Mermaid that was very well received by critics at the 2008 Venice Film Festival.",
+            "genero" : "Animation. Fantasy. Adventures. Children",
+            "director" : "Hayao Miyazaki"
+        }, 
+        {            
+            "id" : 8,
+            "caratula" : "https://pics.filmaffinity.com/karigurashi_no_arietti-356171620-large.jpg",
+            "titulo" : "Arriety",
+            "descripcion" : "In a little house hidden under the floorboards of a country mansion, lives a family of tiny beings, barely 10 cm. tall, who have the rule of never letting themselves be seen by human beings; however, his quiet existence changes when Arrietty, a bold teenager, is accidentally seen by a boy who has just moved into the house due to his failing health. While a great friendship develops between the two, the existence of the tiny beings will be dangerously threatened... Adaptation of the children's story The Borrowers, written by Mary Norton and set in contemporary Tokyo.",
+            "genero" : "Animation. Fantasy. Drama. Children",
+            "director" : "Hiromasa Yonebayashi"
+        }
+    ]
+}
