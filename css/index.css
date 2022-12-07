@@ -1,24 +1,36 @@
 body {
-    background-color: lightsalmon;
+    background-color: teal;
 }
 
 .headerTitle {
     font-family: 'Abril Fatface', cursive;
     font-weight: bold;
     text-decoration: underline;
-    color: brown;
+    color: transparent;
+    -webkit-text-stroke: 1px #fff;
+    background: url(/img/back.png);
+    -webkit-background-clip: text;
+    background-position: 0 0;
+    animation: back 20s linear infinite;
     font-size: 5em;
-    font-size: 120px;
+    font-size: 200px;
     text-align: center;
     margin: 90px;
+}
+
+@keyframes back{
+    100%{
+        background-position: 2000px 0;
+    }
 }
 
 .cardsMovies {
     display: flex;
     flex-flow: row wrap; /* combination of flex-direction + flex-wrap */
-    justify-content: space-around;
     justify-content: center;
-    margin: 20px;
+    align-items: center;
+    margin: 120px 500px 350px 500px;
+    padding: 0;
 }
 
 .card {
@@ -26,6 +38,7 @@ body {
     width: 70rem;
     height: 148rem;
     border-radius: 50px;
+    background-color: #fff;
 }
 
 .cardBody {
@@ -36,6 +49,7 @@ body {
 .coverImg {
     width:  70rem;
     height: 100rem;
+    border-radius: 50px;
     object-fit: cover; /* to make the image fit a specific container size */
 }
 
@@ -43,10 +57,17 @@ body {
     font-family: 'Abril Fatface', cursive;
     font-weight: bold;
     text-decoration: underline;
-    color: brown;
+    color: teal;
     font-size: 5em;
 }
 
 .filmInfo {
     font-size: 50px;
+}
+
+h4 {
+    color: #fff;
+    font-size: 70px;
+    text-align: center;
+    bottom: 50px;
 }
