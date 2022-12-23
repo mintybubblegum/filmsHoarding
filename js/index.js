@@ -14,6 +14,7 @@ fetchMoviesJson().then(movies =>{
         
         let id = movies.peliculas[index].id;
         let cover = movies.peliculas[index].caratula;
+        let link = movies.peliculas[index].enlace;
         let title = movies.peliculas[index].titulo;
         let description = movies.peliculas[index].descripcion;
         let genre = movies.peliculas[index].genero;
@@ -21,12 +22,12 @@ fetchMoviesJson().then(movies =>{
 
         movieSection.innerHTML += `
         <div class="card">
-            <img class="coverImg" src="${cover}" alt="Imagen Caratula">
+            <a href="${link}"><img class="coverImg" src="${cover}" alt="Imagen Caratula"></a>
             <div class="cardBody">
                 <h1 class="cardTitle">${id}. ${title}</h1>
-                <h2 class="filmInfo">Director : ${director}</h2>
-                <h2 class="filmInfo">Genre : ${genre}</h2>
-                <h2 class="filmInfo">Description : ${description}</h2>
+                <h2 class="filmInfoTop"><b>Director: </b>${director}</h2>
+                <h2 class="filmInfoTop"><b>Genre: </b>${genre}</h2>
+                <h2 class="filmInfo"><b>Description: </b>${description}</h2>
                 </div>
         </div>
         `
