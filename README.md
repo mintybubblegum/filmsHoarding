@@ -7,7 +7,7 @@ Design and develop a films hoarding using Javascript and a 'fake' API REST.
 
 ## Website Preview 👀
 
-https://user-images.githubusercontent.com/116545642/209358709-757b1f75-6fc4-4a34-b149-d69cc8acf2bc.mp4
+https://user-images.githubusercontent.com/116545642/209361680-2952fe2f-a59e-44cf-8665-1d0f3d7e9f6a.mp4
 
 ## Stacks 💻
 
