@@ -7,9 +7,9 @@ Design and develop a films hoarding using Javascript and a 'fake' API REST.
 
 ## Screenshots 📸
 
-<div align="center" style=margin-right: "30px">
-<img src="myFavouriteMoviesListing/img/favouriteMoviesListing.png" width="30%"><img src="/public/img/shim.png" width="3%"><img src="myFavouriteMoviesListing/img/favouriteMoviesListing1.png" width="30%">
-<br>Figma Mockup</div>
+<div align="center">
+<img src="/myFavouriteMoviesListing/img/favouriteMoviesListing.PNG" width="30%"><img src="/public/img/shim.png" width="3%"><img src="/myFavouriteMoviesListing/img/favouriteMoviesListing1.PNG" width="30%">
+<br>Preview</div>
 
 ## Stacks 💻
 
@@ -18,6 +18,10 @@ Design and develop a films hoarding using Javascript and a 'fake' API REST.
 - Java Script
 - 'Fake' API Rest with Json
 - Tailwind CSS
+
+https://user-images.githubusercontent.com/116545642/209358709-757b1f75-6fc4-4a34-b149-d69cc8acf2bc.mp4
+
+
 - Bootstrap 5
 
 ## Methodology 📚
